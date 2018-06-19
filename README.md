@@ -1,7 +1,3 @@
-# Streamline
-
-> Maximize your life
-
 ## Usage
 
 ``` bash
